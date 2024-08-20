@@ -2,9 +2,8 @@
 <h3 align="center">A passionate Software Developer experienced in FullStack Development</h3>
 
 - 🔭 I’m currently working on **FullStack projects using Java and React**
-- 🌱 I’m currently learning **Spring Boot, Next.js & MongoDB**
+- 🌱 I’m currently learning **Spring Boot, Next.js, MongoDB & MySql**
 - 👯 I’m looking to collaborate on **Backend and FullStack projects**
-- 👨‍💻 All of my projects are available on my [Portfolio](https://bit.ly/Portfolio-Aadi_Designer)
 - 💬 Ask me about **Java, React, Spring Boot, JavaScript**
 - 📫 How to reach me: **sohamhanse29@gmail.com**
 
